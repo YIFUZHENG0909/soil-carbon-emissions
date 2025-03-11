@@ -9,3 +9,6 @@ Metatranscriptomic data processing processes, from Rawdata quality control to sp
 
 **Fig2，Fig3，Fig5**
 The computational code of key results in this study: linear regression model for carbon flux, random forest ranking of core genes corresponding to carbon flux, source tracker, PLS-PM
+
+**data**
+Data used to obtain the main conclusions
